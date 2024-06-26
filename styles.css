@@ -3,11 +3,11 @@
     margin: 0;
 }
 .intro, h1{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Rowdies", sans-serif;
 }
 .intro .name{
     font-size: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "DM Serif Display", serif;
     font-weight: bold;
 }
 .about, .skills, .projects, .contact, .education, .certification{
@@ -26,7 +26,7 @@ header{
 header, footer{
     background-color: #0d6efd;
     color: white;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Rowdies", sans-serif;
 }
 header .navbar .nav-link {
     color: white !important; 
