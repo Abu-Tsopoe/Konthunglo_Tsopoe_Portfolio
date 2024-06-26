@@ -11,7 +11,7 @@
     font-weight: bold;
 }
 .about, .skills, .projects, .contact, .education, .certification{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "LXGW WenKai Mono TC", monospace;
     text-align: center;
 }
 .about, .projects, .certification{
